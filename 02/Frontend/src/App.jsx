@@ -23,7 +23,7 @@ function App() {
         <h3>{joke.title}</h3>
         <p>{joke.joke}</p></div>
       ))}
-    </>
+    </>  
   );
 }
 
